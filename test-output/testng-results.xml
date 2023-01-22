@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-22T07:01:43 IST" name="Suite" finished-at="2023-01-22T07:04:57 IST" duration-ms="193976">
+    <groups>
+    </groups>
+    <test started-at="2023-01-22T07:01:43 IST" name="Test" finished-at="2023-01-22T07:04:57 IST" duration-ms="193976">
+      <class name="case1.Test_3">
+        <test-method is-config="true" signature="BS()[pri:0, instance:case1.Test_3@673fdbce]" started-at="2023-01-22T07:01:40 IST" name="BS" finished-at="2023-01-22T07:01:43 IST" duration-ms="2570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:case1.Test_3@673fdbce]" started-at="2023-01-22T07:01:43 IST" name="setUp" finished-at="2023-01-22T07:03:05 IST" duration-ms="81767" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Amazon()[pri:0, instance:case1.Test_3@673fdbce]" started-at="2023-01-22T07:03:05 IST" name="Amazon" finished-at="2023-01-22T07:04:56 IST" duration-ms="111632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:case1.Test_3@673fdbce]" started-at="2023-01-22T07:04:56 IST" name="tearDown" finished-at="2023-01-22T07:04:57 IST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- case1.Test_3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
